@@ -13,3 +13,4 @@ HAL YANG SUDAH DIPELAJARI
 -Object Oriented Programing
 -kondisi
 -switch
+-loop

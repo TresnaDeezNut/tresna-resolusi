@@ -10,5 +10,8 @@ HAL YANG SUDAH DIPELAJARI
   •double
   •bool
 -operator
--while loop
--do while
+-Object Oriented Programing
+-kondisi
+-switch
+-loop
+

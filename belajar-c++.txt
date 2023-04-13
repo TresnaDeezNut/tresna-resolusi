@@ -1,0 +1,7 @@
+HAL YANG SUDAH DIPELAJARI
+
+-output/input
+-variabel
+-tipe data
+-operator
+-

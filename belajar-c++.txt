@@ -10,4 +10,4 @@ HAL YANG SUDAH DIPELAJARI
   •double
   •bool
 -operator
--
+-Object Oriented Programing

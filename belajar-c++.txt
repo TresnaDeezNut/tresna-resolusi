@@ -11,3 +11,5 @@ HAL YANG SUDAH DIPELAJARI
   •bool
 -operator
 -Object Oriented Programing
+-kondisi
+-switch

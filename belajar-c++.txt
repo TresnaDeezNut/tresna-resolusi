@@ -1,0 +1,13 @@
+HAL YANG SUDAH DIPELAJARI
+
+-output/input
+-variabel
+-tipe data
+  •string
+  •int
+  •float
+  •char
+  •double
+  •bool
+-operator
+-
